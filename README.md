@@ -9,9 +9,9 @@ Para nos proponemos los siguientes proyectos:
 
 2. Proyecto Alerta Meteorológica. (TERMINADO) Generar un script para alertas por correo electrónico.
 
-3. Proyecto Alerta Agroquímicas. (EN PROCESO) Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
+2.1 Proyecto Alerta Agroquímicas. (EN PROCESO) Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
 
-Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO) Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
+2.2 Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO) Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
 
 Proyecto Alerta Pico de precipitaciones acumulada nocturno. (EN PROCESO) Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado durante la noche.
 
