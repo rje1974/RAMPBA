@@ -5,13 +5,17 @@ El proyecto RAMPBA Tiene como objetivo generar herramientas, que mediante el uso
 
 Para nos proponemos los siguientes proyectos:
 
-1. Proyecto documentación. (EN DESARROLLO) Manual de instalación y armado de estaciones, para las estaciones económicas (http://www.foshk.com/) que se venden en mercadolibre (costo 1799 pesos). http://articulo.mercadolibre.com.ar/MLA-609076060-estacion-meteorologica-inalambrica-usb-pc-wh-1080-1081-JM. Manual de instalación y armado de servidor ubuntu + weewx. Con las correspondientes configuraciones para windguru, weatherunderground y openweathermap. Para colaborar ingrese en el link a continuación. https://docs.google.com/document/d/10dyKw9gyVm20jAlCIjj0kqMKp9bDSnGx9qXtcVEwrE/edit?usp=sharing
+1. **Proyecto documentación. (EN DESARROLLO)**
+Manual de instalación y armado de estaciones, para las estaciones económicas (http://www.foshk.com/) que se venden en mercadolibre (costo 1799 pesos). http://articulo.mercadolibre.com.ar/MLA-609076060-estacion-meteorologica-inalambrica-usb-pc-wh-1080-1081-JM. Manual de instalación y armado de servidor ubuntu + weewx. Con las correspondientes configuraciones para windguru, weatherunderground y openweathermap. Para colaborar ingrese en el link a continuación. https://docs.google.com/document/d/10dyKw9gyVm20jAlCIjj0kqMKp9bDSnGx9qXtcVEwrE/edit?usp=sharing
 
-2. Proyecto Alerta Meteorológica. (TERMINADO) Generar un script para alertas por correo electrónico.
+2. **Proyecto Alerta Meteorológica. (TERMINADO)**
+Generar un script para alertas por correo electrónico.
 
-3. Proyecto Alerta Agroquímicas. (EN PROCESO) Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
+3. **Proyecto Alerta Agroquímicas. (EN PROCESO)**
+Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
 
-4. Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO) Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
+4. **Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO)**
+Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
 
 5. Proyecto Alerta Pico de precipitaciones acumulada nocturno. (EN PROCESO) Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado durante la noche.
 
