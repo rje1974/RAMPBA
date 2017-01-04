@@ -9,7 +9,7 @@ Para nos proponemos los siguientes proyectos:
 Manual de instalación y armado de estaciones, para las estaciones económicas (http://www.foshk.com/) que se venden en mercadolibre (costo 1799 pesos). http://articulo.mercadolibre.com.ar/MLA-609076060-estacion-meteorologica-inalambrica-usb-pc-wh-1080-1081-JM. Manual de instalación y armado de servidor ubuntu + weewx. Con las correspondientes configuraciones para windguru, weatherunderground y openweathermap. Para colaborar ingrese en el link a continuación. https://github.com/rje1974/Documentacion_WS1080-81
 
 2. **Proyecto Alerta Meteorológica. (TERMINADO)**
-Generar un script para alertas por correo electrónico.
+Generar un script para alertas para determinada temperatura por correo electrónico. https://github.com/rje1974/alerta_temperatura
 
 3. **Proyecto Alerta Agroquímicas. (EN PROCESO)**
 Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
