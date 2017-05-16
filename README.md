@@ -13,8 +13,10 @@ Manual de instalación y armado de estaciones, para las estaciones económicas (
 Generar un script para alertas para determinada temperatura por correo electrónico.
 > https://github.com/rje1974/alerta_temperatura
 
-3. **Proyecto Alerta Agroquímicas. (EN PROCESO)**
+3. **Proyecto Alerta Agroquímicas. (EN DESARROLLO)**
+3.1 ***Alerta Viento***
 Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
+> https://github.com/rje1974/alerta_viento
 
 4. **Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO)**
 Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
