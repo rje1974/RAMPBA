@@ -10,28 +10,31 @@ Manual de instalación y armado de estaciones, para las estaciones económicas (
 > https://github.com/rje1974/Documentacion_WS1080-81
 
 2. **Proyecto Alerta Meteorológica. (TERMINADO)**
-Generar un script para alertas para determinada temperatura por correo electrónico.
+  Es un script para alertas para determinada temperatura por correo electrónico.
 > https://github.com/rje1974/alerta_temperatura
 
-3. **Proyecto Alerta Agroquímicas. (EN DESARROLLO)**
-3.1 ***Alerta Viento***
-Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
+3. **Vela Deportiva. (TERMINADO)**
+  Es un script que permita alertar a personas que realizar deportes de vela cuando esten dadas las circustancias para practicar los deportes.
 > https://github.com/rje1974/alerta_viento
 
-4. **Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO)**
+4. **Proyecto Alerta Agroquímicas. (EN DESARROLLO)**
+  ***Alerta Aplicación*** Generar un script que permita alertar a los usuarios cuando no están dadas las condiciones para las aplicaciones de agroquímicas, tomando como referencia los valores dados por "el manual de buenas practicas"-
+> https://github.com/rje1974/alerta_viento
+
+5. **Proyecto Alerta Pico de Precipitaciones Repentino. (EN PROCESO)**
 Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado.
 
-5. **Proyecto Alerta Pico de precipitaciones acumulada nocturno. (EN PROCESO)**
+6. **Proyecto Alerta Pico de precipitaciones acumulada nocturno. (EN PROCESO)**
 Generar un script que permita una alerta por correo electrónico cuando los milímetros acumulados de lluvia superen un valor en un espacio de tiempo predeterminado durante la noche.
 
-6. **Skin y Interfaz. (EN DESARROLLO)**
+7. **Skin y Interfaz. (EN DESARROLLO)**
 Generar una interfaz amigable que permita guardar las distintas configuraciones de alerta. Skin Argenta. Traducción al español de una de las skins sumando nuestras imágenes de radar climatológico.
 https://github.com/rje1974/Skin-Weewx-Argentina Aquí se puede ver una imagen del servidor ( https://i.imgsafe.org/2de65508cf.png )
 
-7. **Canal  BOT Whastapp. (SIN COMENZAR)**
+8. **Canal  BOT Whastapp. (SIN COMENZAR)**
  Configurar script que permita el agregado del servicio de whasapp como canal al sistema de alertas.
 
-8. **Plugin Emergencias Provincia de Buenos Aires. (POSPUESTO)**
+9. **Plugin Emergencias Provincia de Buenos Aires. (POSPUESTO)**
 Generar un Plugin para que el sistema aporte sus datos a los servidores del sistema de alertas de la provincia de buenos aires. El mismo requiere credenciales de acceso a los servidores de las entidades, que no se encontraron disponibles durante el evento.
 
 
